@@ -1,0 +1,2 @@
+Advanced level project simulating how a Bitcoin mining node would work. Project creates card numbers using Luhn Algorithm and checks their validity during login process. Project utilizes SQLite3 in Python and stores user credentials in a database. A simple mining functuion is used to mine blocks the transaction hash, block_number and previous block hash are fixed just to keep the project from getting too complicated.
+													- KR .E
